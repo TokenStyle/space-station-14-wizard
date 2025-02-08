@@ -9,6 +9,8 @@
     - Revolutionary
     - AllHostile
 
+
+
 - type: npcFaction
   id: NanoTrasen
   hostile:
